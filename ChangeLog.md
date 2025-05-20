@@ -1,4 +1,4 @@
-Please see also http://phantomjs.org/releases.html.
+Please see also: https://phantomjs.org/releases.html
 
 2016-01-23: Version 2.1.0
 
