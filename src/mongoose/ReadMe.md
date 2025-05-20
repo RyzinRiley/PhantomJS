@@ -1,7 +1,7 @@
-### Mongoose Web Server
+### Mongoose Web Server Library 
 
 This project contains version 3.1 of the Mongoose web server project, as
-found at <https://code.google.com/p/mongoose>
+found at: <https://code.google.com/p/mongoose>
 
 It contains the code for version 3.1 as of 26-May-2011 (revision 0ca751520abf).
 
