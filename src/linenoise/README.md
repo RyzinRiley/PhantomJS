@@ -9,10 +9,10 @@ commit 7946e2c2d08df11dca2b99c5db40360c3d3e9a80
 Author: Alan T. DeKok <aland@freeradius.org>
 Date:   Wed Oct 26 15:56:52 2011 +0200
 
-    Added character callbacks again
+* Added character callbacks again
 -----
 
 Some files not needed for PhantomJS are removed.
 
 Linenoise is licensed under the BSD-license.
-Kudos to all the developers that contribute to this nice little pearl.
+Kudos to all the developers that contributed to this nice little pearl.
